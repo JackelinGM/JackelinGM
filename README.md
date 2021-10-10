@@ -9,7 +9,7 @@
 const jackelingm = {
   code: [Javascript, HTML, CSS], 
   tools: [Node, React],
-  languages: ["Italian", "English", "Spanish"]
+  languages: ["English", "Spanish"]
 }
 ```  
 ![Meli's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackelingm&show_icons=true&theme=ocean_dark)
