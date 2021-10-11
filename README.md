@@ -24,17 +24,16 @@ const jackelingm = {
 
 ![Meli's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackelingm&show_icons=true&theme=ocean_dark)
 
-![jackelingm GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jackelingm&theme=midnight-purple&date_format=j%2Fn%5B%2FY%5D)
+![jackelingm GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jackelingm&theme=jolly&date_format=j%2Fn%5B%2FY%5D)
 
 
   <div>
- 	<a href="https://twitter.com/Melissa25857581" target="_blank"><img src=" https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white " target="_blank"></a>
- <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 	<a href="https://twitter.com/Melissa25857581" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "gutmontemel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/melissa-montalban/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
- https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white 
-https://twitter.com/Melissa25857581
+ <br>
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -45,5 +44,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
 ![animation](./github-user-contribution.svg)
